@@ -1,0 +1,41 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26,Unnamed: 27,Unnamed: 28
+,VALORACIÓN INICIAL,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,BPI,,,,COS,,,,,,,,,,,,,,,,
+,Sujeto,Nombre,Edad,Peso,Ejercicio?,Dolor desde,Dolor (EVA),Dolor,Emociones Negativas,Limitaciones actividad física,Estrés (PSS10),Satisfacción sueño,Insomnio,Hiperinsomnio,Oswestry,T. Schober*,Lassegue,Patrick,Gaenslen,,GRUPO EXPERIMENTAL,,,,,,,
+,1,Juan Jose Recio Herrero,50,89.9,no,2 años,10,32,15,14,15,4,21,3,54,15,44,10,negativo,,,,,,,,,
+,2,Madeline Piedrahita Montoya,54,67.4,si,1 años,5,12,5,22,0,7,15,4,26,16,89,90,negativo,Operación reciente para retirar clavos en perone. No bioimpedancia por precaución,,,,,,,,
+,3,Miguel Angel Pérez,80,98.5,no,20 años,5,20,7,27,18,1,22,3,28,12,44,90,Negativo,Operación de corazón,,,,,,,,
+,4,Eugenia Escalona Castro,72,79.3,no,20 años,5,25,13,37,23,1,24,7,50,15,90,90,Negativo,,,,,,,,,
+,5,Concepción Fernandez Baquero,77,63.7,si,20 años,7,27,8,33,16,4,32,10,38,15,92,60,Negativo,,,,,,,,,
+,6,María Rosa,59,59.1,no,20 años,10,29,17,54,29,2,25,4,68,10,81,45,Positivo,muy medicada y con paralisis del tibial anterior,,,,,,,,
+,7,Paula Barrios Pérez,21,48,si,2 años,8,22,16,29,35,4,20,8,20,14,78,90,Negativo,Yoga + gimnasio,,,,,,,,
+,8,Dolores Álvarez Berbegal,74,73.7,si,5 años,10,20,10,32,17,7,10,3,18,16,91,60,Negativo,,,,,,,,,
+,9,Cristina del Río monlla,50,59.1,no,1 años,6,19,14,46,40,4,30,7,18,15,70,80,Negativo,"Deporte diario: pilates, yoga y andar. DEPRESIÓN",,,,,,,,
+,10,Mº Carmen Ortiz Martín,37,121.9,si,1 años,7,31,17,46,23,1,38,11,60,15,22,50,Negativo,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,VALORACIÓN FINAL,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,BPI,,,,COS,,,,,,,,,,,,,,,,
+,Sujeto,Nombre,Edad,Peso,,Dolor desde,Dolor (EVA),Dolor,Emociones Negativas,Limitaciones actividad física,Estrés (PSS10),Satisfacción sueño,Insomnio,Hiperinsomnio,Oswestry,T. Shober,Lassegue,Patrick,Gaenslen,Pastillas para dormir,,,,,,,,
+,1,Juan Jose Recio Herrero,50,89.8,,2 años,7,24,16,36,20,4,22,9,42,15,45,80,negativo,si,,,,,,,,
+,2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,3,Miguel Angel Pérez,80,97.9,,20 años,3,25,7,19,15,4,13,3,16,12'5,80,90,Negativo,No,,,,,,,,
+,4,Eugenia Escalona Castro,72,79.3,,20 años,0,23,12,27,17,1,16,6,28,16,90,90,negativo,Si,,,,,,,,
+,5,Concepción Fernandez Baquero,77,63.2,,20 años,6,28,8,20,18,5,21,3,10,15,93,60,negativo,si,,,,,,,,
+,6,Maria Rosa,80,58,,18 años,6,27,9,35,15,7,13,3,48,11,89,70,Positivo,No,,,,,,,,
+,7,Paula Barrios Pérez,21,48.7,,2 años,3,18,8,6,26,5,17,5,14,14,93,90,Negativo,si,,,,,,,,
+,8,Dolores Álvarez Berbegal,74,71.4,,5 años,2,25,10,13,8,7,10,4,14,16,91,70,positivo,No,,,,,,,,
+,9,Cristina del Río monlla,50,59.7,,1 años,3,24,13,32,27,5,20,3,12,15,88,90,Positivo,Si,,,,,,,,
+,10,Mº Carmen Ortiz Martín,37,119.7,,1 años,6,30,15,45,14,6,22,4,54,14,43,90,Positivo,Si,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sujeto,Grupo,Edad,Peso pre,Peso post,Eva pre,Eva post,Dolor pre,Dolor post,Emociones pre,Emociones post,Limitaciones Act pre,Limitaciones Act post,Estrés pre,Estrés post,Satis sueño pre,Satis sueño post,Insomnio pre,Insomnio post,Hiperinsomnio pre,Hiperinsomnio post,Oswestry pre,Oswestry post,Schober pre,Schober post,Lassegue pre,Lassegue post,Patrick pre,Patrick post
+1,1,50,89.9,89.8,10,7,32,24,46,60,14,36,15,20,4,4,21,22,3,9,54,42,15,15,45,45,10,80
+3,1,80,98.5,97.9,5,3,20,25,47,44,27,19,18,15,1,4,22,13,3,3,28,16,12,12'5,45,80,90,90
+5,1,77,63.7,63.2,7,6,27,28,60,48,33,20,16,18,4,5,32,21,10,3,38,10,15,15,90,90,60,60
+7,1,21,48,48.7,8,3,22,18,51,24,29,6,35,26,4,5,20,17,8,5,20,14,14,14,80,90,90,90
+10,1,37,121.9,119.7,7,6,31,30,77,75,46,45,23,14,1,6,38,22,11,4,60,54,15,14,20,45,50,90
+4,0,72,79.3,79.3,5,0,25,23,62,50,37,27,23,17,1,1,24,16,7,6,50,28,15,16,90,90,90,90
+6,0,59,59.1,58,10,6,29,27,83,62,54,35,29,15,2,7,25,13,4,3,68,48,10,11,80,90,45,70
+8,0,74,73.7,71.4,10,2,20,25,52,38,32,13,17,8,7,7,10,10,3,4,18,14,16,16,90,90,60,70
+9,0,50,59.1,59.7,6,3,19,24,65,56,46,32,40,27,4,5,30,20,7,3,18,12,15,15,70,90,80,90
